@@ -1,6 +1,6 @@
-### NAME:T.V.YAMUNA SHRI VARDHINI
-### REG NO:24003856
-# EXPERIMENT 5:IMPLEMENTATION OF JK FLIPFLOP
+### NAME: T.V.YAMUNA SHRI VARDHINI
+### REG NO: 24003856
+# EXPERIMENT 5: IMPLEMENTATION OF JK FLIPFLOP
 # AIM
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
